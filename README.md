@@ -24,7 +24,7 @@ learning_rate = 0.001
 Training Set (1000/1600) - 99.6%  
 Validation Set (300/1600) - 90.33%
 
-
+![alt text](https://github.com/priyansh-design/Memes-Vs-Notes/blob/main/download.png)
 
 ## Architecture (Conv)
 Training set-1500/1600
