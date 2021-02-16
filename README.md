@@ -35,7 +35,7 @@ Validation Set (80/1600) - 95%
 
 
 Data is at
-https://drive.google.com/drive/folders/1SH5Y8fpwue2uIN1kOeyj_HweW4AP1xKO?usp=sharing   
+https://drive.google.com/drive/u/0/folders/1ntSQMw7P1ZModZW8qDaleEvUDTlmd7kL
 
 
 ## To open the Colab Notebooks
