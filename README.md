@@ -31,7 +31,7 @@ epoch size for both training and validation set-5
 
 **Accuracy**
 Training Set (1500/1600) - 95%   
-Validation Set (100/1600) - 95%
+Validation Set (80/1600) - 95%
 
 
 Data is at
