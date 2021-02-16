@@ -36,7 +36,7 @@ Validation Set (80/1600) - 95%
 
 Data is at
 https://drive.google.com/drive/folders/1SH5Y8fpwue2uIN1kOeyj_HweW4AP1xKO?usp=sharing   
-paste MVN_X.npy and MVN_Y.npy in the data folder
+
 
 ## To open the Colab Notebooks
 Goto - https://colab.research.google.com/github/
