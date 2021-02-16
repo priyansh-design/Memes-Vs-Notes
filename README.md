@@ -1,5 +1,18 @@
 # Memes-Vs-Notes
 ## Architecture (Non-Conv)
+(Numpy)
+Dense Layer - C(256x256x3,1000)   
+Dense Layer - C(1000,50)  
+Dense Layer - C(50,1)   
+
+
+learning_rate = 0.01  
+
+**Accuracy**
+Training Set (1000/1600) - 72.6%  
+Validation Set (300/1600) - 90%
+
+(PyTorch)
 Dense Layer - C(256x256x3,1000)   
 Dense Layer - C(1000,50)  
 Dense Layer - C(50,2)   
@@ -11,10 +24,13 @@ learning_rate = 0.001
 Training Set (1000/1600) - 99.6%  
 Validation Set (300/1600) - 90.33%
 
+
+
 ## Architecture (Conv)
 Training set-1500/1600
 Validation set-80/1600
 Test set-20/1600
+
 F - Filter, S - Stride, C - Channels   
 Conv Layer - F(11x11) S(4x4) C(3,96)  
 Conv Layer - F(5x5) S(4x4) C(96,132)  
@@ -24,9 +40,10 @@ Max Pool - F(2x2) S(2x2)
 Dense - C(158x2x2,252)   
 Dense - C(252,2)   
 
-Optimizer - ADAM    
+Optimizer - ADAM   
 learning_rate = 0.001   
 batch size-50
+
 epoch size for both training and validation set-5
 
 **Accuracy**
